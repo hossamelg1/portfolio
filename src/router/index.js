@@ -7,7 +7,7 @@ import Contact from '../views/Contact.vue'
 const routes = [
   {
     path: '/',
-    name: 'Home',
+    name: 'HomeView',
     component: Home
   },
   {
